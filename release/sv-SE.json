@@ -1,7 +1,7 @@
 {
     "name": "Svenska",
     "description": "Den inofficiella svenska översättningen av spelet, skapad av communityn. Du hittar fler communityöversättningar i språkrepot (se eftertexterna). Översättningarna har inte kvalitetsgranskats och kan innehålla fel eller vara inaktuella!",
-    "version": "1.0",
+    "version": "1.0.1",
     "main": {
         "bandage": "Dressing",
         "bandagedsc": "A roll of dressing with a bandage, used to slow down bleeding, stabilize fractures and aid skin healing. Has no effect on muscle health.",
@@ -1399,8 +1399,8 @@
         "ceftriaxonedsc": "Tredje generationens cefalosporinantibiotikum för behandling av infektioner. Ökar kroppens immunförsvar en stund, men leder till smärta.",
         "reliefcream": "Lindringskräm",
         "reliefcreamdsc": "Blandning av kemiska ämnen och läkemedel som snabbt lindrar smärta och desinficerar sår.",
-        "localanesthetic": "Local anesthetic",
-        "localanestheticdsc": "Causes absence of all sensation in the limb its injected into. This disables pain, but also makes the limb unusable. 10mL lasts for one minute.",
+        "localanesthetic": "Lokal bedövning",
+        "localanestheticdsc": "Orsakar att förlust av känseln i lemmen där den blir injicerad. Dämpar smärta, men gör också lemmen oanvänbar. 10mL räcker en minut.",
         "woundglue": "Sårlim",
         "woundgluedsc": "En limliknande substans med blodstillande och antibiotiska egenskaper. Bekämpar infektioner, främjar återhämtning och effektivt försluter blödande sår. Kan leda till problem med cirkulationen - använd med försiktighet.",
         "keratinbooster": "Keratinbooster",
