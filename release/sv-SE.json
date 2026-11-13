@@ -1841,6 +1841,7 @@
         "lifepodMinigameGuide": "Matcha koden för att öppna.",
         "shrapnelMinigameGuide": "Dra ut splittret långsamt. Att göra det för snabbt kommer göra ont.\nAnvändning av en pincett låter dig ignorera fartgränsen.",
         "dislocationMinigameGuide": "Slå benet till rätt position för att korrigera dislokation.\nAtt använda en skiftnyckel skulle göra mindre ont.",
+        "dislocationMinigameGuideAlt": "Slå protesen till rätt position",
         "amputationMinigameGuide": "Såga genom lemmen för att amputera. Var noggrann med att stoppa blödningen efter.",
         "aedMinigameGuide": "Följ instruktionerna som visas.",
         "manualDefibMinigameGuide": "Matcha laddningen proportionell hur långt in i fibrillationscykeln ditt hjärta är, ladda, sen chocka, upprepa vid behov.\nDen uppskattade ström rekommendationen (POW.EST) blir precisare med högre INT.",
@@ -2071,6 +2072,7 @@
         "open": "Öppna",
         "insertbattery": "Sätt in batteri från huvudhand",
         "lockpick": "Dyrka upp lås",
+        "dosurgery": "Operera på dig själv",
         "finaltravel": "Spänn fast dig och påbörja resa",
         "lookcloser": "Ta en närmare titt",
         "examine": "Undersök",
@@ -4200,6 +4202,9 @@
             "cargoimpale3": [
                 "I... I r-really did it... Well... I'll... Let's not get too confident... I think I can use that pod to return. Let's get to the surface."
             ],
+            "wwmrwrongway": [
+                "I don't think this is the right way... I should go towards the source of those weird pulses..."
+            ],
             "endlessloop0": [
                 "...Www-wh...what..? What? Why? What just... Why am I back here..? Hnn... What just happened..."
             ], 
@@ -5076,6 +5081,9 @@
             "cargoimpale3": [
                 "Hh. Focus. Very well. It is only logical that this was an intended part of the plan. I shall proceed into this drill pod and head upwards."
             ],
+            "wwmrwrongway": [
+                "I must be going the wrong way. I must head towards the source of the pulses."
+            ],
             "endlessloop0": [
                 "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... O-okay. Not... N-not. What I. Was e-expecting. I must have done something wrong. I s-shall return and try once again."
             ],
@@ -5916,6 +5924,9 @@
             ],
             "cargoimpale3": [
                 "Hhr...n..mmm...du-ne can lea-ve..."
+            ],
+            "wwmrwrongway": [
+                "Du-ne... Stu-pid. No wa-y."
             ],
             "endlessloop0": [
                 "...Mmmrrnnngghh... Ngghh......a-gain?"
